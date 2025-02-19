@@ -32,6 +32,10 @@ h5 {
     height: auto;
   }
   
+.card-title1 {
+  padding-top: 2em;
+}
+
   /* Contacto */
   
   #Contacto form label {
