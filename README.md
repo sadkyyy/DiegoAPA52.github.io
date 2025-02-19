@@ -1,7 +1,7 @@
 Trabajo de GitHub Page 
 https://diegoapa52.github.io/
 
-Compañeros Forkeados 
+Proyectos Forkeados 
 https://github.com/DiegoAPA52/mariselacevedor.github.io
 https://github.com/DiegoAPA52/vfaundez-dev.github.io
 
