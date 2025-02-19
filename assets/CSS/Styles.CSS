@@ -1,0 +1,47 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-image: url(/Diego_CV_GIT/assets/IMG/bg2.jpeg)
+  }
+  
+  /* Hero Section */
+  
+  /* #Hero-Section {
+    background-image: url("/Diego_CV_GIT/assets/IMG/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  } */
+  
+ 
+  /* Mis trabajos */
+  
+h5 {
+  text-align: center;
+}
+
+  #Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+  }
+  
+  /* Contacto */
+  
+  #Contacto form label {
+    font-weight: 700;
+    color: #373a3c;
+  }
+  
+  @media (max-width: 768px) {
+    #Contacto form label {
+      font-weight: 400;
+    }
+  
+    .navbar-brand{
+      width: 100px;
+    }
+  
+  }
+  
